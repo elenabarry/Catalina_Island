@@ -3,10 +3,13 @@
 A 3rd-person exploration game made in Unity with only free and handmade assets. Giant mutant rabbits rule the island. The player takes the form of a lone white wolf who uncovers the truth of how the giant rabbit regime came into being. The story unfolds as the player directs the wolf towards food, health and knowledge, leading him to an ultimate choice…
 
 <img width="863" alt="Screenshot 2023-08-29 at 17 34 44" src="https://github.com/elenabarry/Catalina_Island/assets/53048127/36f94281-3955-442c-a3d6-ce7066c66313">
+
 ## Look and Feel 
 
 The first island is inspired by a real island, ‘Santa Catalina’, one of California’s Channel Islands, located southwest of Los Angeles. It is used by Apple as a Mac wallpaper.
 The second island is inspired by another real island, ‘Ōkunoshima’, situated in the inland sea of Japan. In 1929 the army began manufacturing chemical weapons, rabbits were brought to the island and used to test the effectiveness of the poison gas in a secret test program. The island is now overrun by them. The game is based on the legend of giant mutant bunny rabbits from the test program.
+
+![Screenshot 2023-10-04 at 19 19 15](https://github.com/elenabarry/Catalina_Island/assets/53048127/892a79e8-56c6-4a5a-96a1-947560bfaa19)
 
 ## Game Objective
 
@@ -21,6 +24,11 @@ Hidden within the island are unique books that contain clues that are nonsensica
 
 The giant mutant bunny rabbits will chase and squash you if you are not careful...
 Rampaging rabbits will chase and try to stomp on the wolf to prevent him reaching food and artefacts. This reduces the health of the wolf indicated by the health bar. If the health bar reaches zero, the wolf and all the other animals die on the island. The wolf can collect health hearts protected by other animals on the island to rejuvenate the wolf’s health. The wolf sometimes needs to use self-defence to knock out the rabbits (this is achieved by jumping on a weak spot between the rabbit’s ears), or to run away or use the escape portals to the next level.
+
+<img width="863" alt="Screenshot 2023-08-29 at 17 36 59" src="https://github.com/elenabarry/Catalina_Island/assets/53048127/bb547e6f-c7b5-4182-a8fc-85cbe94da603">
+
+<img width="863" alt="Screenshot 2023-08-29 at 17 38 10" src="https://github.com/elenabarry/Catalina_Island/assets/53048127/49daa14a-f466-4bdd-8d0e-1c072bf570f8">
+
 
 ## Finite State Machine
 
