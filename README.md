@@ -2,6 +2,7 @@
 
 A 3rd-person exploration game made in Unity with only free and handmade assets. Giant mutant rabbits rule the island. The player takes the form of a lone white wolf who uncovers the truth of how the giant rabbit regime came into being. The story unfolds as the player directs the wolf towards food, health and knowledge, leading him to an ultimate choice…
 
+<img width="863" alt="Screenshot 2023-08-29 at 17 34 44" src="https://github.com/elenabarry/Catalina_Island/assets/53048127/36f94281-3955-442c-a3d6-ce7066c66313">
 ## Look and Feel 
 
 The first island is inspired by a real island, ‘Santa Catalina’, one of California’s Channel Islands, located southwest of Los Angeles. It is used by Apple as a Mac wallpaper.
