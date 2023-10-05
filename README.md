@@ -47,13 +47,13 @@ The rabbit AI will be on 'Idle' state if the player is not close enough for the 
 
 The options screen will have the choices for ‘easy’, ‘medium’ or ‘hard’ game play, where the rabbits get faster and harder to knock out with each progression. The main menu appears at the beginning and at the end of the game. It uses 'On Click' events alongside a script to activate different buttons within the menu.
 
-![Picture 2](https://github.com/elenabarry/Catalina_Island/assets/53048127/c409444c-31c1-4f6a-8eec-58f8e9f5e9f2)
+<img width="861" alt="Screenshot 2023-08-29 at 17 31 49" src="https://github.com/elenabarry/Catalina_Island/assets/53048127/b07e7186-fe20-433d-8af3-c90ba89bcd31">
 
 ### Pause Menu
 
 If the player would like to pause the game whilst playing, they can press the ‘esc’ key on the keyboard and the pause menu will appear, allowing them to pause and resume the game. They player can also select ‘MENU’ to go back to the main menu and ‘QUIT’ to exit the game.
 
-<img width="194" alt="Picture 3" src="https://github.com/elenabarry/Catalina_Island/assets/53048127/2a0f6507-9404-4394-b116-74f8dfc93c25">
+![Screenshot 2023-10-05 at 15 05 48](https://github.com/elenabarry/Catalina_Island/assets/53048127/d359d2d6-1486-427c-b0af-7225b9c80716)
 
 ## Navigation & Player Controls
 
